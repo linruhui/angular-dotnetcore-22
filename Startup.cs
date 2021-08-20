@@ -60,6 +60,8 @@ namespace linru_angular_22
                 // see https://go.microsoft.com/fwlink/?linkid=864501
 
                 spa.Options.SourcePath = "ClientApp";
+                
+                
 
                 if (env.IsDevelopment())
                 {
